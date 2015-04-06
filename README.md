@@ -20,7 +20,7 @@ Building the Source RPM
     * Group 100000 is already present for the target as *nemo*
     * Add user *mersdk* as
 
-              mersdk:x:1001:100001::/home/nemo:/bin/bash
+              mersdk:x:1001:100000::/home/nemo:/bin/bash
 
       to `/parentroot/srv/mer/targets/SailfishOS-armv7hl/etc/passwd`
 * Run
