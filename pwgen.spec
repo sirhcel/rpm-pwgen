@@ -18,9 +18,6 @@ Source0:        http://sourceforge.net/projects/pwgen/files/pwgen/%{VERSION}/pwg
 # It seems to originate from
 # https://bugzilla.novell.com/show_bug.cgi?id=529521.
 
-Requires:       glibc
-BuildRequires:  glibc-devel
-
 
 %description
 Pwgen is a small, GPL'ed password generator which creates passwords which can
