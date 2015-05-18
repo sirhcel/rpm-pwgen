@@ -4,7 +4,7 @@ Pwgen RPM Spec
 Tested on
 ---------
 
-* Sailfish OS SDK Beta 1502, Sailfish OS 1.1.2.16
+* Sailfish OS SDK Beta 1504, Sailfish OS 1.1.4.29
 
 
 Building the Source RPM
